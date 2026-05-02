@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-02 23:03 (IR Time)
+- 📥 **[StormDNS_Client_Windows_X86.zip](https://github.com/blacksikhchoo-hash/mehdi/raw/main/dl/StormDNS_Client_Windows_X86.zip)**
+
+
 ### 📅 2026-05-02 22:57 (IR Time)
 - 📥 **[StormDNS_Client_Windows_ARM64.zip](https://github.com/blacksikhchoo-hash/mehdi/raw/main/dl/StormDNS_Client_Windows_ARM64.zip)**
 
