@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-02 21:41 (IR Time)
+- 📥 **[thefeed-client-v0.13.5-windows-amd64.exe](https://github.com/blacksikhchoo-hash/mehdi/raw/main/dl/thefeed-client-v0.13.5-windows-amd64.exe)**
+
+
 ### 📅 2026-05-02 15:31 (IR Time)
 - 📥 **[mhrv-rs-android-universal-v1.9.7.apk](https://github.com/blacksikhchoo-hash/mehdi/raw/main/dl/mhrv-rs-android-universal-v1.9.7.apk)**
 
