@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-04 21:43 (IR Time)
+- 📥 **[thefeed-client-v0.14.9-windows-amd64.exe](https://github.com/blacksikhchoo-hash/mehdi/raw/main/dl/thefeed-client-v0.14.9-windows-amd64.exe)**
+
+
 ### 📅 2026-05-02 23:03 (IR Time)
 - 📥 **[StormDNS_Client_Windows_X86.zip](https://github.com/blacksikhchoo-hash/mehdi/raw/main/dl/StormDNS_Client_Windows_X86.zip)**
 
