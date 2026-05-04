@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-04 21:52 (IR Time)
+- 📥 **[thefeed-android-v0.14.9-arm64-v8a.apk](https://github.com/blacksikhchoo-hash/mehdi/raw/main/dl/thefeed-android-v0.14.9-arm64-v8a.apk)**
+
+
 ### 📅 2026-05-04 21:43 (IR Time)
 - 📥 **[thefeed-client-v0.14.9-windows-amd64.exe](https://github.com/blacksikhchoo-hash/mehdi/raw/main/dl/thefeed-client-v0.14.9-windows-amd64.exe)**
 
