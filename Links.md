@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-08 12:35 (IR Time)
+- 📥 **[mhrv-rs-windows-amd64.zip](https://github.com/blacksikhchoo-hash/mehdi/raw/main/dl/mhrv-rs-windows-amd64.zip)**
+
+
 ### 📅 2026-05-08 11:40 (IR Time)
 - 📥 **[mhrv-rs-android-universal-v1.9.18.apk](https://github.com/blacksikhchoo-hash/mehdi/raw/main/dl/mhrv-rs-android-universal-v1.9.18.apk)**
 
